@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RGDCallPredictor"
         mc:Ignorable="d"
-        Title="Doorcast" Height="312" Width="443" ResizeMode="CanMinimize" WindowStyle="ThreeDBorderWindow" Icon="Images/doorcast.ico" IsEnabled="False" Activated="TurnOn" Loaded="Window_Loaded">
+        Title="DoorCast" Height="312" Width="443" ResizeMode="CanMinimize" WindowStyle="ThreeDBorderWindow" Icon="Images/doorcast.ico" IsEnabled="False" Activated="TurnOn" Loaded="Window_Loaded">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FF165578" Offset="1"/>
